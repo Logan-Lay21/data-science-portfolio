@@ -8,7 +8,7 @@ Hi! I'm a data science student at BYU-Idaho with a focus on data wrangling, visu
 ## Projects
 
 ### 🔹 [Gas Station Data Dashboard](https://app-challenge-wi26-hathaway-git-292414558216.us-west3.run.app/)
-**[Live Demo](https://app-challenge-wi26-hathaway-git-292414558216.us-west3.run.app/) · [Repository](https://github.com/Logan-Lay21/gas-station-dashboard)**
+**[Live Demo](https://app-challenge-wi26-hathaway-git-292414558216.us-west3.run.app/) · [Repository](https://github.com/Logan-Lay21/gas-station-data-dashboard)**
 
 An interactive Streamlit dashboard built for gas station owners to explore store-level sales performance and customer behavior. Built on real transactional data from gas stations across Idaho and Utah.
 
