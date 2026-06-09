@@ -1,7 +1,7 @@
 # Data Science Portfolio
 ### Logan Lay
 
-Hi! I'm a data science student at BYU-Idaho with a focus on data wrangling, visualization, and building tools that turn raw data into actionable insights. This portfolio highlights a few projects I'm proud of - spanning R, Python, and full-stack dashboard deployment.
+Hi! I'm a data science student at BYU-Idaho with a focus on data wrangling, analysis, visualization, and building tools that turn raw data into actionable insights. This portfolio highlights a few projects I'm proud of - spanning R, Python, and full-stack dashboard deployment.
 
 ---
 
