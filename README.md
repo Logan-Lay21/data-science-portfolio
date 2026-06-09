@@ -30,7 +30,7 @@ A head-to-head comparison of two stock portfolios — mine vs. a friend's — us
 ---
 
 ### 🔹 [Historical Height Analysis Across Five Datasets](https://github.com/Logan-Lay21/height-analysis)
-**[Repository](https://github.com/Logan-Lay21/height-analysis)**
+**[Live Report](https://logan-lay21.github.io/height-analysis/height-analysis.html)** · **[Repository](https://github.com/Logan-Lay21/height-analysis)**
 
 A cross-century analysis of male height distributions using five datasets spanning Bavarian conscripts, German prison records, SE German soldiers, BLS survey data, and the Wisconsin NSFH. The project focuses on careful data wrangling across very different source formats and honest interpretation of what the data can and can't tell us.
 
