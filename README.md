@@ -19,7 +19,7 @@ An interactive Streamlit dashboard built for gas station owners to explore store
 ---
 
 ### 🔹 [Stock Portfolio Competition Analysis](https://Logan-Lay21.github.io/stock-portfolio-analysis)
-**[Live Report](https://Logan-Lay21.github.io/stock-portfolio-analysis) · [Repository](https://github.com/Logan-Lay21/stock-portfolio-analysis)**
+**[Live Report](https://logan-lay21.github.io/stock-portfolio-analysis/stocks_tidyquant.html) · [Repository](https://github.com/Logan-Lay21/stock-portfolio-analysis)**
 
 A head-to-head comparison of two stock portfolios — mine vs. a friend's — using live market data. Pulls real price history, calculates portfolio value over time, and visualizes performance across both picks.
 
